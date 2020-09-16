@@ -41,6 +41,7 @@ title = "The BandIDs"
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
     
   [markup]
+    defaultMarkdownHandler = "goldmark"
     [markup.goldmark]
       [markup.goldmark.renderer]
         unsafe = true
