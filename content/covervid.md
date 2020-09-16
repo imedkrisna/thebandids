@@ -2,7 +2,7 @@
 title: "Services"
 ---
 
-This page is for our complete list of cover videos! Go ahead and check out our [<i class="fas youtube"></i> Youtube channel](https://www.youtube.com/channel/UCVv2tjQfxxPJozp8G4EpGVA)!
+Woohoo!! This page is for our complete list of cover videos! Go ahead and check out our [<i class="fas youtube"></i> Youtube channel](https://www.youtube.com/channel/UCVv2tjQfxxPJozp8G4EpGVA)!
 
 ---
 
