@@ -4,3 +4,7 @@
 [submodule "themes/hugoscroll"]
 	path = themes/hugoscroll
 	url = https://github.com/janraasch/hugo-scroll.git
+[submodule "public"]
+	path = public
+	url = https://github.com/thebandids/thebandids.github.io.git
+	branch = master
