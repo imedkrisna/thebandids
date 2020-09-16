@@ -1,10 +1,8 @@
 ---
-title: "Services"
+title: "Our Members"
 ---
 
 Our members:
-
----
 
 ## Aldi M. Hutagalung
 
@@ -14,7 +12,8 @@ Our members:
 
 ## Imed Krisna
 
-![Imed Krisna](images/imed.png)
+![Imed Krisna](static/images/imed.jpg)
+
 One of the latest to join as lead vocal. He also play simple chords with guitar and simple notes with cajon. He's not actually studied in Enschede but poor guy doesn't have other place to go. He was studying Master in Economics at VU University Amsterdam when he first joined The BandIDS. He is now a PhD Student at Australian National University (ANU), but still prefers making music to making academic papers. You can also see his [personal website here](https://krisna.netlify.app/).
 
  
