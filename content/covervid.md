@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Covers"
 ---
 
 Woohoo!! This page is for our complete list of cover videos! Go ahead and check out our [<i class="fas youtube"></i> Youtube channel](https://www.youtube.com/channel/UCVv2tjQfxxPJozp8G4EpGVA)!
@@ -10,7 +10,7 @@ Woohoo!! This page is for our complete list of cover videos! Go ahead and check 
 
 This is our Radiohead - Just cover
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PdjFZRTW27o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/PdjFZRTW27o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
